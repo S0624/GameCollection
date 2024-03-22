@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GameObject
+  - handle
+  - handleWall
+  - Stage
+  - Enemy
+  - Button
+  - GimmickManager
+  - Goal
+  - Fade
+  - Gimmick1_1
+  - Gimmick1_2
+  - Goal1_1
+  - Gimmick2_1
+  - Gimmick2_2
+  - Gimmick2_3
+  - Gimmick2_4
+  - Goal1_2
+  - Gimmick3_1
+  - Gimmick3_2
+  - Gimmick3_3
+  - Gimmick3_4
+  - GimmickRoad3_1
+  - GimmickRoad3_2
+  - GimmickRoad3_3
+  - GimmickRoad3_4
+  - Gimmick1
+  - MainScene1_3
+  - Stick
+  - BossEat
+  - DamageFloor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PostProcess
+  - Water
+  - UI
+  - NoneEffect
+  - OnEffect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

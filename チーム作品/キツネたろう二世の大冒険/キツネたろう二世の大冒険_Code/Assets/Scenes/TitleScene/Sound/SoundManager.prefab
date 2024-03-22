@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6916387122602811122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6916387122602811120}
+  - component: {fileID: 6916387122602811121}
+  m_Layer: 0
+  m_Name: SoundManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6916387122602811120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6916387122602811122}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.6857011, y: 11.235725, z: -2.0890632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6916387122602811121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6916387122602811122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 786a0f39b3412c648ae57e95e79d247b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _seSource: {fileID: 0}
+  _bgmSource: {fileID: 0}
+  _seData:
+  - sound: {fileID: 8300000, guid: 3a892c903f2448242b5296e49563bd3a, type: 3}
+    name: 1_2_3_Pull
+    volume: 1
+  - sound: {fileID: 8300000, guid: 8b33585c67a305c40bc91cc03a4c53ef, type: 3}
+    name: 1_2_3_Push
+    volume: 1
+  - sound: {fileID: 8300000, guid: 7122a5d8d5231a642baa14f3751bd09e, type: 3}
+    name: 1_2_3_Elevator
+    volume: 1
+  - sound: {fileID: 8300000, guid: 7cb6fff772ec4a54f8307018aa5ea810, type: 3}
+    name: 1_2_4_Light
+    volume: 1
+  - sound: {fileID: 8300000, guid: b59cf29c4a078a046b94e28cd91230e5, type: 3}
+    name: 1_2_3_MetalRota
+    volume: 1
+  - sound: {fileID: 8300000, guid: 46583d77f903faf4d90b86629a51875c, type: 3}
+    name: 1_3_1_Push
+    volume: 1
+  - sound: {fileID: 8300000, guid: fde0e33042e436545a4bd2823d42a4e2, type: 3}
+    name: 1_3_1_OneBack
+    volume: 1
+  - sound: {fileID: 8300000, guid: 604954d51efdbfa418b728019addcdfc, type: 3}
+    name: 1_3_1_Reset
+    volume: 1
+  - sound: {fileID: 8300000, guid: 5cb34a3b67c45bf4d8e5857e41be3504, type: 3}
+    name: 1_1_0_StrongWind
+    volume: 1
+  - sound: {fileID: 8300000, guid: 638d5145542c70b498d714ea697d029b, type: 3}
+    name: 1_1_0_WeakkWind
+    volume: 1
+  - sound: {fileID: 8300000, guid: 0632355008bc2a44983ccce798565aa7, type: 3}
+    name: 1_2_0_BeltConbeyor
+    volume: 1
+  - sound: {fileID: 8300000, guid: a9754b322bda327489d1b98954060be1, type: 3}
+    name: 1_2_0_Bomb
+    volume: 1
+  - sound: {fileID: 8300000, guid: bc0d75311e5b8864cb5519f64f4f98bc, type: 3}
+    name: 1_2_0_IronDoor
+    volume: 1
+  - sound: {fileID: 8300000, guid: d5aea8b8e5707a3459b3607d846a285a, type: 3}
+    name: Damage
+    volume: 1
+  - sound: {fileID: 8300000, guid: 13fc386ead9e33542a77ed20aa690d53, type: 3}
+    name: Fottsteps
+    volume: 1
+  - sound: {fileID: 8300000, guid: 27863740c3f652b418510d0f5709e990, type: 3}
+    name: Jump
+    volume: 1
+  - sound: {fileID: 8300000, guid: 5504bacb1a49c3349b4bd453f799f77a, type: 3}
+    name: Warp
+    volume: 1
+  - sound: {fileID: 8300000, guid: 6c0e047861c8d6447a0df72696f602a8, type: 3}
+    name: GameOver
+    volume: 1
+  - sound: {fileID: 8300000, guid: 38fbf2c368a22554a9b1d92686dd6126, type: 3}
+    name: GoalLanding
+    volume: 1
+  - sound: {fileID: 8300000, guid: a46b6797baffce644aab6b2c2999614c, type: 3}
+    name: 1_2_1_Button
+    volume: 1
+  - sound: {fileID: 8300000, guid: cfb6c4529ea3d4841ab14721c86941b6, type: 3}
+    name: 1_2_1_Clear
+    volume: 1
+  - sound: {fileID: 8300000, guid: e8de3c2216d94064492840f712692b70, type: 3}
+    name: 1_2_1_Miss
+    volume: 1
+  - sound: {fileID: 8300000, guid: bcea88c651c37c24e84021c9cbe0440b, type: 3}
+    name: 1_3_4_Bourst
+    volume: 1
+  - sound: {fileID: 8300000, guid: 56db0397d9d5b1348b1556f9c2698dbe, type: 3}
+    name: 1_3_4_Door
+    volume: 1
+  - sound: {fileID: 8300000, guid: 89282bccc6907a146b52883c6e63eecc, type: 3}
+    name: 1_3_4_Fall
+    volume: 1
+  - sound: {fileID: 8300000, guid: 84a7d4d6dc2b5ae42adc9aab288f6fce, type: 3}
+    name: 1_2_2lever
+    volume: 1
+  - sound: {fileID: 8300000, guid: 88064f9cfd676af488d9fb06cc4c4d5c, type: 3}
+    name: 1_2_2plane
+    volume: 1
+  - sound: {fileID: 8300000, guid: 01bde0d85a5901342bf1989470a67181, type: 3}
+    name: 1_3_3_WallDown
+    volume: 1
+  - sound: {fileID: 8300000, guid: 61a145f9c0d57c5489e96c87254c2079, type: 3}
+    name: 1_3_3_InBox
+    volume: 1
+  - sound: {fileID: 8300000, guid: 40c039bd6600ced41a27b08bd7a3c2b7, type: 3}
+    name: 1_3_MainSceneClear
+    volume: 1
+  - sound: {fileID: 8300000, guid: 1c30f95dfaef0bc4dbd9e865a3314956, type: 3}
+    name: 1_3_2_Button
+    volume: 1
+  - sound: {fileID: 8300000, guid: 0176095cff5736448bdd940ea0626672, type: 3}
+    name: Goal
+    volume: 1
+  - sound: {fileID: 8300000, guid: 858dc58d5f37f7642908627d21159489, type: 3}
+    name: 1_2_0_Fire
+    volume: 1
+  - sound: {fileID: 8300000, guid: b539e35a8f1b7454c95d95fac7a60b96, type: 3}
+    name: BossMove
+    volume: 1
+  - sound: {fileID: 8300000, guid: 2dccca57c20361a478b281330611fbe0, type: 3}
+    name: GoalAttack
+    volume: 1
+  _bgmData:
+  - sound: {fileID: 8300000, guid: 7b2d57059c59d384290773303504d320, type: 3}
+    name: 1_1_0_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 9aa568a125e548244ae4bb8e589094e4, type: 3}
+    name: 1_1_1_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: a13ece8178b7a004c86e4ae3fcebe3ce, type: 3}
+    name: 1_1_2_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: e247119b66fe6bc48a6043fbae9b01e7, type: 3}
+    name: 1_2_0_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 29b54aea49b792743b849f3c49e48610, type: 3}
+    name: 1_2_2_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 452a7fea8d30b7d4aab53187081a53eb, type: 3}
+    name: 1_2_3_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 709537996ee3e524c8575d6baca4add3, type: 3}
+    name: 1_3_1_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: f0f9ded6e29a82543bbbedaf37f32c2b, type: 3}
+    name: 1_3_2_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 2cc5df01a0dd9334b8a795d9657af419, type: 3}
+    name: 1_3_3_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 1ee4972e56cc57d45aa62a22ca2e3838, type: 3}
+    name: 1_2_1_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 075fed7b6460ec8498d56c01785f0f4d, type: 3}
+    name: 1_3_4_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 9f407be1fc525ca4ea1e83c9c401abf6, type: 3}
+    name: TitleScene_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: d4fea914adf0c9b4db3a1725f8576ca2, type: 3}
+    name: EndScene_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: df16ab2013386ac4880cf9ace97a3b6d, type: 3}
+    name: 1_2_2BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 2cc5df01a0dd9334b8a795d9657af419, type: 3}
+    name: 1_3_3_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 26961eb3dce44304ab41946e753a591f, type: 3}
+    name: 1_3_MainScene
+    volume: 1
+  - sound: {fileID: 8300000, guid: fb1c564a3f9d8ef439173dc77bc888af, type: 3}
+    name: 1_2_4_BGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 8d5ea58edda7fb344b5df2ce5892c86c, type: 3}
+    name: 1_2_4_MainBGM
+    volume: 1
+  - sound: {fileID: 8300000, guid: 26961eb3dce44304ab41946e753a591f, type: 3}
+    name: 1_3_MainScene
+    volume: 1
+  _playSeTest: 0000000000000000000000000000000000000000000000000000000000
+  _playBgmTest: 00000000000000000000000000000000
+  _seMasterVolume: 1
+  _bgmMasterVolume: 1
