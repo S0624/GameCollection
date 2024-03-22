@@ -1,0 +1,145 @@
+﻿  Camera.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Camera/Camera.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Camera/Camera.cpp' をコンパイルしています)
+  
+  Common.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Common.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Common.cpp' をコンパイルしています)
+  
+  CurrentPlayerMap.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Util/CurrentPlayerMap.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Util/CurrentPlayerMap.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\CurrentPlayerMap.cpp(48,34): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Effect.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Util/Effect.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Util/Effect.cpp' をコンパイルしています)
+  
+  main.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  SceneDebug.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneDebug.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneDebug.cpp' をコンパイルしています)
+  
+  SceneSelect.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneSelect.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneSelect.cpp' をコンパイルしています)
+  
+  SceneResult.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneResult.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneResult.cpp' をコンパイルしています)
+  
+  SoundManager.cpp
+  Model.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Util/Model.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Util/Model.cpp' をコンパイルしています)
+  
+  BackGround.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Object/BackGround.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Object/BackGround.cpp' をコンパイルしています)
+  
+  GameObject.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Object/GameObject.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Object/GameObject.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\GameObject.h(50,42): warning C4244: 'return': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Object/GameObject.cpp' をコンパイルしています)
+  
+  Player.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Object/Player.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Object/Player.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\Player.cpp(20,11): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\Player.cpp(71,13): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  SceneMain.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneMain.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneMain.cpp' をコンパイルしています)
+  
+  SceneTitle.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneTitle.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneTitle.cpp' をコンパイルしています)
+  
+  SceneManager.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneManager.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Scene\SceneManager.cpp(33,11): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
+  Map.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Stage/Map.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Stage/Map.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\GameObject.h(50,42): warning C4244: 'return': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Stage/Map.cpp' をコンパイルしています)
+  
+  Pad.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Util/Pad.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Util/Pad.cpp' をコンパイルしています)
+  
+  SceneBase.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Scene/SceneBase.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Scene/SceneBase.cpp' をコンパイルしています)
+  
+  Stage.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C2143: 構文エラー: ';' が 'const' の前にありません。
+  (ソース ファイル 'Stage/Stage.cpp' をコンパイルしています)
+  
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\game.h(14,5): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+  (ソース ファイル 'Stage/Stage.cpp' をコンパイルしています)
+  
+  コードを生成中...

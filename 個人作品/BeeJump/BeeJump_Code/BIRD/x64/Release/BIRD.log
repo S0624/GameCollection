@@ -1,0 +1,36 @@
+﻿  Camera.cpp
+  Common.cpp
+  CurrentPlayerMap.cpp
+  Effect.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Util\CurrentPlayerMap.cpp(48,34): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  main.cpp
+  SceneDebug.cpp
+  SceneSelect.cpp
+  SceneResult.cpp
+  SoundManager.cpp
+  Model.cpp
+  BackGround.cpp
+  GameObject.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\GameObject.h(50,42): warning C4244: 'return': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Object/GameObject.cpp' をコンパイルしています)
+  
+  Player.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\Player.cpp(20,11): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\Player.cpp(71,13): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+  SceneMain.cpp
+  SceneTitle.cpp
+  SceneManager.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Scene\SceneManager.cpp(33,11): warning C4305: 'return': 'int' から 'bool' へ切り詰めます。
+  Map.cpp
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Object\GameObject.h(50,42): warning C4244: 'return': 'const float' から 'const int' への変換です。データが失われる可能性があります。
+  (ソース ファイル 'Stage/Map.cpp' をコンパイルしています)
+  
+  Pad.cpp
+  SceneBase.cpp
+  Stage.cpp
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\Scene\SceneManager.cpp(54): warning C4715: 'SceneManager::Init': 値を返さないコントロール パスがあります。
+  All 1189 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  BIRD.vcxproj -> C:\Users\fko2247078\Desktop\修飾関係\syusyoku\さくひん\作品\個人作品\BeeJump\BeeJump_Code\x64\Release\BIRD.exe
