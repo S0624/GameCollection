@@ -1,0 +1,52 @@
+﻿  GameManager.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DXLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  ClearEffect.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  CreateEffect.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  MapChip.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Field.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  main.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  FieldInformation.cpp
+  SceneManager.cpp
+  ScenePause.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SceneSelect.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SceneTitle.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SoundManager.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SoundSettingScene.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Stage1.cpp
+  Stage10.cpp
+  Stage2.cpp
+  Stage3.cpp
+  Stage4.cpp
+  Stage5.cpp
+  Stage6.cpp
+  コンパイル中...
+  Stage7.cpp
+  Stage8.cpp
+  Stage9.cpp
+  InputState.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Pad.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Player.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  SceneBase.cpp
+  SceneMain.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Vec2.cpp
+C:\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  コード生成しています。
+  1234 of 1242 functions (99.4%) were compiled, the rest were copied from previous compilation.
+    7 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  TaskGame.vcxproj -> C:\Users\fko2247078\Desktop\修飾関係\作品\個人作品\TaskGame\x64\Release\TaskGame.exe

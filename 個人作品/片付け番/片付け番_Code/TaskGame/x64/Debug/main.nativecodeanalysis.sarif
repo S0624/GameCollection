@@ -1,0 +1,438 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.31.31104.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00007FF7A7D09CC0 -il C:\\Users\\FKO224~3\\AppData\\Local\\Temp\\_CL_ba27cb71ast -typedil -f main.cpp -Ze -D_MSC_EXTENSIONS -Zp16 -pc \\:/ -D_MSC_VER=1931 -D_MSC_FULL_VER=193131104 -D_MSC_BUILD=0 -D_M_AMD64=100 -ZILP448 -D_M_X64=100 -D_WIN64 -D_WIN32 -GR -D_CPPRTTI -I C:\\DxLib_VC\\プロジェクトに追加すべきファイル_VC用 -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_DEBUG -D_WINDOWS -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MTd -clrNoPureCRT -D_DEBUG -D_MT -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -permissive- -Fox64\\Debug\\main.obj -Fdx64\\Debug\\vc143.pdb -external:W 3 -Gd -analyze:projectdirectory C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C言語\\Programming\\課題（提出)\\TaskGame\\TaskGame -analyze:rulesetdirectory ;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\bin\\HostX64\\x64\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.31.31103\\atlmfc\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage6.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "869ab54f0ec4d9bf5a539cd4440946c09fe7bf98bcdf415860b632a9321149fc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage6.h"
+          },
+          "hashes": {
+            "sha-256": "1ccabe8b626eb9c64d66c353e7c5434d9425ba9e7b3929572d5068c8194d0aec"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/object/field.h"
+          },
+          "hashes": {
+            "sha-256": "445b99d2a3b6f1308ba0dff9704946eb37d5b7d4e12c61e476ff8e9b04697dd5"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/ui/vec2.h"
+          },
+          "hashes": {
+            "sha-256": "8a74759ad404ecda257a83cd5285917317416569413b7b193e824b5373c13967"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/object/fieldinformation.h"
+          },
+          "hashes": {
+            "sha-256": "a25c5169a911a5e66ca763ec8a090d2d5f46fab94ed905ab1b4ca72f899c76c0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage5.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "941792d1a9daae7c6024d4c01d220a365a6bea8fe8074dfdc3e7e00ee83af729"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage5.h"
+          },
+          "hashes": {
+            "sha-256": "cd0b7b34d4197ab9ab0f099ad48dd5c311c62be04cd2d9b2611a51f76b6dcb44"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage4.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "5084f343a155baaa9d3e47e00835bb95a2b7126e111d96b23f068dbf19dae808"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage4.h"
+          },
+          "hashes": {
+            "sha-256": "cdf3ef4078f228574d5a8a0c093f89b67ee1cba9874ea7c5af91db9185367ecc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage3.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "05857098fe4514f622dc50a6febddb55e2a1cd421b69267d6afed635a1983133"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage3.h"
+          },
+          "hashes": {
+            "sha-256": "246039bbcd6d32d11b2824768355cf60e0c671e5c7b9bc053ff249601c8c3582"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage2.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "c2aae64784c7d4fef5a2d270df8747955d02a84ceaf64f6181abf48ce34f6f49"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage2.h"
+          },
+          "hashes": {
+            "sha-256": "8fd7e69c645d1f2c1424e5fbe5ecdc0219c2a83efcc7027258a864de5e8d6da8"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage10.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "aed0eb54155bceacb7bfb8ad2d3006d6ba790b112ebda80b9344e0b7da8e71dc"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage10.h"
+          },
+          "hashes": {
+            "sha-256": "a05ac1245dda168e681c453af74ae88a9024a881556cec0847258ae010cb8f61"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage1.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "f1a8281139a4756d864c25a6f4f08cb7368212153998444f39a0679f63c79070"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage1.h"
+          },
+          "hashes": {
+            "sha-256": "aa29e0e91364bef6ae58dc27df18bb691d63725a60ee32220644d3a02156ada0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/soundsettingscene.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "9bc097821c9db73cca1ffeba40db488ba1fa81715f5a30d471fdf3420a0eaab7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/soundsettingscene.h"
+          },
+          "hashes": {
+            "sha-256": "a8e28607b872f8151448f4a2e33216c228badfac60c8a39a48425a5de70721fa"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenebase.h"
+          },
+          "hashes": {
+            "sha-256": "e88541492c25bb9f5875c916063853575d2c1ec62aea07ba988c6057c6efdc20"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/ui/inputstate.h"
+          },
+          "hashes": {
+            "sha-256": "f479609608c7e9b3efaebe638d23990a38106b60285a34d234cbd7268b92157e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/soundmanager.h"
+          },
+          "hashes": {
+            "sha-256": "ddcb47f81c4a7423d25e907e38cc589ef93bcbcc622eb4070adab55a1468fd36"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/dxlib_vc/プロジェクトに追加すべきファイル_vc用/dxlib.h"
+          },
+          "hashes": {
+            "sha-256": "c7fec2b7062b584b1af90bb595da565475cf44250163b1c65916c0d0798b7393"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/dxlib_vc/プロジェクトに追加すべきファイル_vc用/dxcompileconfig.h"
+          },
+          "hashes": {
+            "sha-256": "1696d146047fb7fff4bc9931d507d3ba808463612dde20acd02f23fb910a6d8d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/dxlib_vc/プロジェクトに追加すべきファイル_vc用/dxdatatype.h"
+          },
+          "hashes": {
+            "sha-256": "3f2388cc5bb49079ee2e5c3ca0dc6bd3743bd954f35b0bcadd3ed7929c3e34f9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/dxlib_vc/プロジェクトに追加すべきファイル_vc用/dxdatatypewin.h"
+          },
+          "hashes": {
+            "sha-256": "8095c8ed1473e5503239cd31dd4cba2707b8a1c12314bcbd2b225300d91c7783"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/dxlib_vc/プロジェクトに追加すべきファイル_vc用/dxfunctionwin.h"
+          },
+          "hashes": {
+            "sha-256": "16dcba69259f93eef87277e7ef7f3000e43044855a15bab4b473e4ce235d6e82"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenemanager.h"
+          },
+          "hashes": {
+            "sha-256": "6f0f2bc7ff46cbd25b5b9221c7bcf9b4d8000c76e57823b5a2b211ce4f661cd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/soundmanager.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "09c5ba9ef517941a3df18757d3c2a422cde6ee32e0e4dba98517648eeeb8ba28"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenetitle.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "0b44b3ed42ab3d2f18f0fb6aaa5bd9bd758e97cb0dc7c77113e3b8b2d8d8808f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenetitle.h"
+          },
+          "hashes": {
+            "sha-256": "e0016e634ccce3c207fbff415df65cea3cd491a970ffe1769a7c463af6ffbb1c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/sceneselect.h"
+          },
+          "hashes": {
+            "sha-256": "dbccc211f67328752af898a3ef5e2e89eff93ab1fbde84aa70b57057836a21c0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/object/player.h"
+          },
+          "hashes": {
+            "sha-256": "24f26ed702cea8c45827dd2b7e79b80dd232002fbb0c3ba981446361d36697ed"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/ui/game.h"
+          },
+          "hashes": {
+            "sha-256": "ecf92e4b0ed2b7c8a52b958b465669a97d38615ed63094e90942bb2357bdb671"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/gamemanager.h"
+          },
+          "hashes": {
+            "sha-256": "0a8fe4e2cd81c14e884bcbc77171ca77291af6a84342630f7441b850a8ab49e0"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/object/mapchip.h"
+          },
+          "hashes": {
+            "sha-256": "c32e3c3853c59f94269f73059f9c32b65548dfd23b158a04155d621dde83093d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/sceneselect.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "da956071423b44e6698c7e2040f5c48e2a80f80d31acf23b79be95ec5a1dd754"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenemain.h"
+          },
+          "hashes": {
+            "sha-256": "2b51688ccae52ecc087a6fed073846a7b3703f05e495084913682b32ab6aef64"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenepause.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "a1257532cadeadeea0323b48a0ce94bc7b1fe4a6e1f795e113a336d50245f862"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenepause.h"
+          },
+          "hashes": {
+            "sha-256": "cb58cd4448099bd9eb8e0fe79e792fc7c4322d3bcbd6cdc57575d8029c982e44"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/scene/scenemanager.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "557e33c9ea55f68c4a219ac042a36d310fa15ab2b9a25356775218a4b620cd24"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/object/fieldinformation.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "923ea556010cd8797456a77f69cb80b663335c51958074abe9460f7e8c690f85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage7.h"
+          },
+          "hashes": {
+            "sha-256": "69a3475f221f2bbcc3ad936c827123fba45c1c0697ea7becf3b8e7166840b265"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage8.h"
+          },
+          "hashes": {
+            "sha-256": "2416356f4f29425be2a43c0db74e21df54e3f513d3e344acdc84cc7feb281852"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/stage/stage9.h"
+          },
+          "hashes": {
+            "sha-256": "2714c1749b6b55675b08cfa2ea0043b254f4241e25d42255c7df7702cdec8312"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/fko2247078/onedrive - ooharastudent/c言語/programming/課題（提出)/taskgame/taskgame/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "10c386bcef7d29ee8eed08a63a2234786637ad92436afdb4387ff127c2a4f475"
+          }
+        }
+      ]
+    }
+  ]
+}
