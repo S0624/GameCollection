@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\network\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\network\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\network\\gameroomproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\network\\gameroomproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\network\\netmatchgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\network\\netmatchgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\network\\networktransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\network\\networktransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|c:\\users\\fko2247078\\onedrive - ooharastudent\\c\u8A00\u8A9E\\programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\unity\\puzzlegame\\assets\\testscript\\spheremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\testscript\\spheremove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\testscript\\fielddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\testscript\\fielddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\colorseedcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\colorseedcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\gamemainmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemainmatchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\network\\networkuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\network\\networkuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\assets\\script\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE80C96C-A26F-4826-F966-FF933B01D041}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pausecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Network\\UIManager.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Network\\UIManager.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowEsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:23:56.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NetMatchGameManager.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetMatchGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Network\\NetMatchGameManager.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetMatchGameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Network\\NetMatchGameManager.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAAAJMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:27:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkTransition.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetworkTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Network\\NetworkTransition.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetworkTransition.cs",
+              "RelativeToolTip": "Assets\\Script\\Network\\NetworkTransition.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAxwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:57:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NetworkUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetworkUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Network\\NetworkUIManager.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\NetworkUIManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Network\\NetworkUIManager.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwHwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T04:23:44.367Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\TitleScene.cs",
+              "RelativeToolTip": "Assets\\Script\\TitleScene.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:00:45.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorSeedCreate.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\ColorSeedCreate.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ColorSeedCreate.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\ColorSeedCreate.cs",
+              "RelativeToolTip": "Assets\\Script\\ColorSeedCreate.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwD4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:32:31.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SphereMove.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\TestScript\\SphereMove.cs",
+              "RelativeDocumentMoniker": "Assets\\TestScript\\SphereMove.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\TestScript\\SphereMove.cs",
+              "RelativeToolTip": "Assets\\TestScript\\SphereMove.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAiwHYBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:05:21.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FieldData.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\TestScript\\FieldData.cs",
+              "RelativeDocumentMoniker": "Assets\\TestScript\\FieldData.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\TestScript\\FieldData.cs",
+              "RelativeToolTip": "Assets\\TestScript\\FieldData.cs",
+              "ViewState": "AQIAAFIDAAAAAAAAAAAUwMYDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:05:02.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PauseController.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\PauseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PauseController.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\PauseController.cs",
+              "RelativeToolTip": "Assets\\Script\\PauseController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:28:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameRoomProperty.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\GameRoomProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Network\\GameRoomProperty.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\Network\\GameRoomProperty.cs",
+              "RelativeToolTip": "Assets\\Script\\Network\\GameRoomProperty.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAkwGQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T03:28:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameMainMatchManager.cs",
+              "DocumentMoniker": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\GameMainMatchManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameMainMatchManager.cs",
+              "ToolTip": "C:\\Users\\fko2247078\\OneDrive - ooharastudent\\C\u8A00\u8A9E\\Programming\\\u8AB2\u984C\uFF08\u63D0\u51FA)\\Unity\\PuzzleGame\\Assets\\Script\\GameMainMatchManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameMainMatchManager.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAIwJcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T05:04:19.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

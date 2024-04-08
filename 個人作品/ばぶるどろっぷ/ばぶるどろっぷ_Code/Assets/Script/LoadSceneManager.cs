@@ -128,11 +128,10 @@ public class LoadSceneManager : MonoBehaviour
                 _soundManager.SEPlay(SoundSEData.TitlePushSE);
                 if (_selectCursor != null)
                 {
-                    //// 仮実装
-                    //if (_selectCursor.SelectNum() == 2)
-                    //{
-                    //    return;
-                    //}
+                    if (_selectCursor.SelectNum() == 2)
+                    {
+                        return;
+                    }
                     // 選んだ画像を拡大する
                     _selectManager.ImageScaleChenge(_selectCursor.SelectNum());
                     if (_selectCursor.SelectNum() == 1)
@@ -140,6 +139,7 @@ public class LoadSceneManager : MonoBehaviour
                         _selectCursor.Decision(true);
                         if (_selectManager.ControllerCheck()) return;
                     }
+                    // 仮実装
                     DifficultyUpdate();
                 }
                 _buttonPush = true;
